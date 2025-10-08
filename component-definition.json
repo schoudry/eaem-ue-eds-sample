@@ -157,8 +157,8 @@
             }
           }
         },{
-          "title": "Exp AEM Quote",
-          "id": "quote",
+          "title": "Experience AEM Quote",
+          "id": "eaem-quote",
           "plugins": {
             "xwalk": {
               "page": {
