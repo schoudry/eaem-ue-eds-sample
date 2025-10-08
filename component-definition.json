@@ -157,7 +157,7 @@
             }
           }
         },{
-          "title": "Experience Quote",
+          "title": "Experience AEM Quote",
           "id": "eaemquote",
           "plugins": {
             "xwalk": {
