@@ -216,7 +216,7 @@
     ]
   },
   {
-    "id": "eaem-quote",
+    "id": "eaemquote",
     "fields": [
        {
          "component": "richtext",
