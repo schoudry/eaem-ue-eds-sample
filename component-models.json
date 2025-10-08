@@ -231,7 +231,13 @@
          "name": "author",
          "label": "Author",
          "value": ""
-       }
+       },{
+        "component": "text",
+        "valueType": "string",
+        "name": "model",
+        "label": "Model",
+        "value": ""
+      }
      ]
   }
 ]
