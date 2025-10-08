@@ -216,7 +216,7 @@
     ]
   },
   {
-    "id": "experience-aem-quote",
+    "id": "quote",
     "fields": [
        {
          "component": "richtext",
