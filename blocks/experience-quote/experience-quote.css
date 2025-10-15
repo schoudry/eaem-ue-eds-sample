@@ -1,4 +1,4 @@
-.experience-quote.quote {
+.block.experience-quote {
     background-color: #ccc;
     padding: 0 0 24px;
     display: flex;
@@ -6,7 +6,7 @@
     margin: 1rem 0;
 }
 
-.experience-quote.quote blockquote {
+.block.experience-quote blockquote {
     margin: 16px;
     text-indent: 0;
 }
