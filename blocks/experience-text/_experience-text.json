@@ -1,0 +1,35 @@
+{
+  "definitions": [
+    {
+      "title": "Experience Text",
+      "id": "eaemtext",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Experience Text",
+              "model": "eaemtext",
+              "text": "<p>This is default text by Experience AEM</p>"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "eaemtext",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "text",
+          "label": "Text",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "filters": [  ]
+}
