@@ -10,3 +10,15 @@
     margin: 16px;
     text-indent: 0;
 }
+
+.block.experience-quote.bg-red { 
+    background-color: red; 
+} 
+
+.block.experience-quote.bg-green { 
+    background-color: green; 
+} 
+
+.block.experience-quote.bg-blue { 
+    background-color: blue; 
+} 
