@@ -57,6 +57,13 @@
               "value": "bg-blue"
             }
           ]
+        },
+        {
+          "component": "text-input",
+          "label": "Hidden text field",
+          "name": "hidden-text",
+          "valueType": "string",
+          "condition": { "===": [{ "var": "classes" }, "bg-red"] }
         }
       ]
     }
