@@ -27,7 +27,22 @@
           "name": "text",
           "label": "Text",
           "value": ""
-        }
+        },
+        {
+          "component": "container",
+          "name": "images",
+          "multi": true,
+          "fields" : [
+            {
+              "component": "reference",
+              "name": "image"
+            },
+            {
+              "component": "text",
+              "name": "imageAlt"
+            }
+          ]
+         }
       ]
     }
   ],
