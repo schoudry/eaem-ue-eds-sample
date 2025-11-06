@@ -262,6 +262,11 @@
             "name": "imageAlt"
           }
         ]
+      },
+      {
+        "component": "richtext",
+        "name": "richtexts",
+        "multi": true
       }
     ]
   },
